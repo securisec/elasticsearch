@@ -8,9 +8,7 @@ These are docker images for [Elasticsearch](https://www.elastic.co/products/elas
 
 ## Versions
 
-* [latest](./latest) available as `webhippie/elasticsearch:latest`
-* [6.4](./v6.4) available as `webhippie/elasticsearch:6.4`
-* [5.6](./v5.6) available as `webhippie/elasticsearch:5.6`
+* [7.8.1](./latest) available as `webhippie/elasticsearch:latest`
 
 
 ## Volumes
